@@ -1,127 +1,112 @@
-<h1 align="center">Hi 👋, I'm Guruprasad S</h1>
-<h3 align="center">Software Developer | Backend Engineer | AI/ML & GenAI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://guru-prasad7.github.io/guruprasadportfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/guru-prasad-8862b1268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:guruprasad84453@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Guruprasad%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%26%20GenAI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;LangChain+%7C+RAG+%7C+FastAPI+%7C+Streamlit;Open+to+Software+Developer+roles+%F0%9F%9A%80" />
 
-### 🚀 About Me
+<br/>
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** (2026) @ M. Kumarasamy College of Engineering
-- 💼 Backend-focused **Software Developer**, building REST APIs, ML pipelines, and production-grade GenAI systems
-- 🧠 Currently deepening my skills in **LangChain, RAG architectures, and scalable backend design**
-- 🛠️ Backend engineering during my internship at **KnowX Innovations Pvt. Ltd.** — shipped a production RAG pipeline that cut response latency by **~40%**
-- ⚡ 150+ problems solved on **LeetCode & HackerRank**
-- 📌 Open to **Software Developer / Backend Developer roles** — open to relocation
-- 📫 Reach me at **guruprasad84453@gmail.com**
+<a href="https://guru-prasad7.github.io/guruprasadportfolio"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/guru-prasad-8862b1268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:guruprasad84453@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Guru-Prasad7&style=for-the-badge&color=764ba2&label=Profile+Views"/>
 
----
+</div>
 
-### 🧰 Tech Stack
+<br/>
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+## 🚀 About Me
 
-**Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+```yaml
+name: Guruprasad S
+role: Software Developer | Backend Engineer
+education: B.Tech - AI & Data Science, 2026
+focus: REST APIs · ML Pipelines · LangChain RAG Systems
+current: Open to Software Developer / Backend Developer roles
+fun_fact: 150+ DSA problems solved on LeetCode & HackerRank
+```
 
-**AI / ML / GenAI**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+- 🛠️ Interned at **KnowX Innovations Pvt. Ltd.** — built a production RAG pipeline, cut API latency by **~40%**
+- 🧠 Deep diving into **LangChain, RAG architectures, and scalable backend design**
+- 📍 Based in Tamil Nadu, India · Open to relocation
+- 📫 **guruprasad84453@gmail.com**
 
-**MLOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+<br/>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+## 🧰 Tech Stack
 
----
+<div align="center">
 
-### 🔥 Featured Projects
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,fastapi,flask,docker,aws,gcp,git,github,vscode&theme=dark" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</div>
 
-**🌾 Crop Yield Predictor**
-ML backend (Random Forest / XGBoost) predicting crop yield from region, soil & weather data — **~88% accuracy**.
-`Python` `Scikit-learn` `XGBoost` `Pandas`
+<div align="center">
 
-[🚀 Live Demo](https://guruprasad-crop-yield.streamlit.app/) · [💻 Code](https://github.com/Guru-Prasad7/ml-projects)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-**📄 RAG-based PDF Q&A Assistant**
-Retrieval-augmented chatbot answering questions from any uploaded PDF, using Groq's Llama 3.1 for low-latency generation.
-`LangChain` `FAISS` `Groq LLM` `Streamlit`
+<br/>
 
-[💻 Code](https://github.com/Guru-Prasad7/pdf-rag-assistant)
+## 🔥 Featured Projects
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**🎓 Student Performance Predictor**
-ML model predicting academic performance from study patterns & attendance — **~90% accuracy** — with a full Streamlit dashboard.
-`Python` `Scikit-learn` `Streamlit`
+<a href="https://github.com/Guru-Prasad7/ml-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Guru-Prasad7&repo=ml-projects&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Guru-Prasad7/pdf-rag-assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Guru-Prasad7&repo=pdf-rag-assistant&theme=radical&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/Guru-Prasad7/employee-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Guru-Prasad7&repo=employee-api&theme=radical&hide_border=true" />
+</a>
 
-[🚀 Live Demo](https://ml-projects-jnaz7wvvbvljhsa6akbs8g.streamlit.app) · [💻 Code](https://github.com/Guru-Prasad7/ml-projects)
+</div>
 
-</td>
-<td width="50%" valign="top">
+| Project | Highlight | Stack | Links |
+|---|---|---|---|
+| 🌾 **Crop Yield Predictor** | ~88% accuracy | Python, Scikit-learn, XGBoost | [Demo](https://guruprasad-crop-yield.streamlit.app/) · [Code](https://github.com/Guru-Prasad7/ml-projects) |
+| 🎓 **Student Performance Predictor** | ~90% accuracy | Python, Scikit-learn, Streamlit | [Demo](https://ml-projects-jnaz7wvvbvljhsa6akbs8g.streamlit.app) · [Code](https://github.com/Guru-Prasad7/ml-projects) |
+| 📄 **RAG PDF Q&A Assistant** | Real-time retrieval | LangChain, FAISS, Groq LLM | [Code](https://github.com/Guru-Prasad7/pdf-rag-assistant) |
+| 👔 **Employee Management API** | Real-time CRUD | FastAPI, SQLAlchemy | [Demo](https://employee-api-b0c3.onrender.com/docs) · [Code](https://github.com/Guru-Prasad7/employee-api) |
 
-**👔 Employee Management API**
-Full backend REST API with real-time CRUD, FastAPI + SQLAlchemy, auto-generated Swagger docs — deployed on Render.
-`FastAPI` `SQLAlchemy` `REST API`
+<br/>
 
-[🚀 Live Demo](https://employee-api-b0c3.onrender.com/docs) · [💻 Code](https://github.com/Guru-Prasad7/employee-api)
+## 📊 GitHub Stats
 
-</td>
-</tr>
-</table>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Guru-Prasad7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Prasad7&layout=compact&theme=radical&hide_border=true" height="165"/>
 
-### 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-Prasad7&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Guru-Prasad7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru-Prasad7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guru-Prasad7&theme=react-dark&hide_border=true" width="95%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guru-Prasad7&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
----
+<br/>
 
-### 🌐 Let's Connect
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guru-prasad-8862b1268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:guruprasad84453@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://guru-prasad7.github.io/guruprasadportfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Guru-Prasad7&theme=radical&no-frame=true&row=1&column=6" />
+</div>
 
-<p align="center"><i>⭐️ Open to Software Developer / Backend roles — let's build something great.</i></p>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
+**⭐️ Open to Software Developer / Backend roles — let's build something great.**
+
+</div>

@@ -110,3 +110,8 @@ fun_fact: 150+ DSA problems solved on LeetCode & HackerRank
 **⭐️ Open to Software Developer / Backend roles — let's build something great.**
 
 </div>
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Guru-Prasad7/Guru-Prasad7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
